@@ -8,7 +8,8 @@ const config = {
     PASSWORD: '0p-0p-0p-',
     PORT: '3306',
     HOST: 'localhost'
-  }
+  },
+    baseUrl: 'localhost:3000/images'
 };
 
 module.exports = config;
